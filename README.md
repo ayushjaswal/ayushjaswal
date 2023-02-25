@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushjaswal
-- 👀 I’m interested in Web Development, AI (and) ML, and Data Science.
-- 🌱 I’m currently learning Web Development and AI (and) ML
+- 👀 I’m interested in DSA, Web Dev, and ML and AI
+- 🌱 I’m currently learning DSA, Web Dev, and ML and AI
 - 📫 My linkedin handle is /ayushjaswal and twitter handle is @ayujas
 
 <!---
