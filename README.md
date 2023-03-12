@@ -1,3 +1,4 @@
+![image](https://img.freepik.com/premium-vector/abstract-technology-concept-circuit-board-high-computer-color-background-vector-illustration_181182-35734.jpg?w=1380)
 <h1 align="center">Hi there 🙋‍♂️, I'm Ayush Jaswal</h1>
 <h3 align="center">A passionate coder</h3>
 
