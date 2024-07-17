@@ -1,4 +1,4 @@
-![image](https://img.freepik.com/premium-vector/abstract-technology-concept-circuit-board-high-computer-color-background-vector-illustration_181182-35734.jpg?w=1380)
+![image](https://pbs.twimg.com/profile_banners/1470389244585672707/1680943992/1500x500)
 <h1 align="center">Hi there 🙋‍♂️, I'm Ayush Jaswal</h1>
 <h3 align="center">A passionate coder</h3>
 
@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushjaswal](https://github.com/ayushjaswal)
 
-- 💬 Ask me about **C++, Python, DSA, ML and AI**
+- 💬 Ask me about **C++, Python, Web Development, ML and AI**
 
 - 📫 How to reach me **ayushjaswal.official@gmail.com**
 
-- ⚡ Fun fact **I like music!**
+- ⚡ Fun fact **I like music and anime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
