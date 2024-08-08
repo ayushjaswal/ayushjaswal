@@ -7,7 +7,7 @@
 
 - 🌱 I’m passionate about **Building problem solving projects**
 
-- 👨‍💻 I’m also doing **DSA and CP**
+- 👨‍💻 I’m also doing **DSA**
 
 - 🤝 I’m looking for help with **ML and AI, or DSA**
 
