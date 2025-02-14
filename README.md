@@ -1,5 +1,4 @@
 # 💫 About Me:
-Turning coffee into code—developing web apps and teaching machines to think!
 🚀 Web Developer Extraordinaire | Aspiring Machine Learning Maven 🚀 
 Once upon a time, I was just a graphic designer dabbling in code and dreaming of building the next big thing. Fast forward to now—I’ve levelled up to a web developer who’s all about turning caffeine into cutting-edge web apps!
 💻 I’ve got a solid grip on Machine Learning and am constantly learning (because who doesn’t love a good brain workout?). While I still enjoy a good problem on LeetCode—when I’m not busy developing creative solutions—I’m more focused on building real-world projects that make an impact.
