@@ -1,7 +1,8 @@
 # 💫 About Me:
-📖 I’m currently learning ML and AI<br>🌱 I’m passionate about Building problem solving projects<br>👨‍💻 I’m also doing DSA<br>🤝 I’m looking for help with ML and AI, or DSA<br>💬 Ask me about C++, Python, Web Development, ML and AI<br>📫 How to reach me ayushjaswal.official@gmail.com<br>⚡ Fun fact I like music and anime!<br>
-
-
+Turning coffee into code—developing web apps and teaching machines to think!
+🚀 Web Developer Extraordinaire | Aspiring Machine Learning Maven 🚀 
+Once upon a time, I was just a graphic designer dabbling in code and dreaming of building the next big thing. Fast forward to now—I’ve levelled up to a web developer who’s all about turning caffeine into cutting-edge web apps!
+💻 I’ve got a solid grip on Machine Learning and am constantly learning (because who doesn’t love a good brain workout?). While I still enjoy a good problem on LeetCode—when I’m not busy developing creative solutions—I’m more focused on building real-world projects that make an impact.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjaswal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayujas) 
 
@@ -11,9 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ayushjaswal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushjaswal&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjaswal&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushjaswal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushjaswal&icon=0&color=0)](https://visitcount.itsvg.in)
