@@ -7,12 +7,28 @@ YO! I CODE; I LIKE IT...I AM GOOD AT IT
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ayushjaswal&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjaswal&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
+    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ayushjaswal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ayushjaswal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ayushjaswal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=ayushjaswal&mode=weekly&hide_border=true&background=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=ayushjaswal&mode=weekly&hide_border=true&background=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=ayushjaswal&mode=weekly&hide_border=true" height="100%" />
+      </picture>
+    </a></td>
   </tr>
   <tr>
     <td width="50%">  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false&Background=DD272700&Border=33FFB242&Ring=33FFB242&Title=30F0A7">    <img  alt="ayushjaswal's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayushjaswal?cardType=level&theme=dark&preferLogin=false&Background=DD272700&Border=33FFB242&Ring=33FFB242&Title=30F0A7" />  </a></td>
