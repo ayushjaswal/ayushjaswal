@@ -7,14 +7,14 @@ YO! I CODE; I LIKE IT...I AM GOOD AT IT
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=ayushjaswal&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
-    <td width="25%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjaswal&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="100%"/>
-    </td>
     <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjaswal&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjaswal&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
+<p width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjaswal&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="100%"/>
+    </p>
