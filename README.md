@@ -8,6 +8,8 @@ YO! I CODE; I LIKE IT...I AM GOOD AT IT
 - AI/ML engineer
 - Web Developer
 
+Portfolio coming soon!...
+
 # Github Stats 📊
 <table>
   <tr>
@@ -18,11 +20,5 @@ YO! I CODE; I LIKE IT...I AM GOOD AT IT
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjaswal&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="100%"/>
     </td>
   </tr>
-  <tr>
-    <td widtg="100%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjaswal&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
 </table>
 
-Portfolio coming soon!...
