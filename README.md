@@ -1,5 +1,6 @@
 # About Me 💫
 YO! I CODE; I LIKE IT...I AM GOOD AT IT  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjaswal)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayujas)
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?logo=hashnode&logoColor=white)](https://ayushore.hashnode.dev)
@@ -22,3 +23,5 @@ Portfolio coming soon!...
   </tr>
 </table>
 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ayushjaswal&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayushjaswal)
