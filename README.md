@@ -5,9 +5,7 @@ YO! I CODE; I LIKE IT...I AM GOOD AT IT
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayujas)
 [![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?logo=hashnode&logoColor=white)](https://ayushore.hashnode.dev)
 
-# Profiles
-- AI/ML engineer
-- Web Developer
+# Profiles: AI/ML engineer
 
 Portfolio coming soon!...
 
