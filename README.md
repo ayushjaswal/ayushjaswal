@@ -30,3 +30,4 @@ I also like doing DSA and Leetcode though I haven't touched that in a while. Per
 
 Portfolio coming soon!...
 
+For connecting and queries hit me up at my [mail](jaswalayush@proton.me)
