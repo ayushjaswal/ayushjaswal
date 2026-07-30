@@ -29,6 +29,6 @@ I also like doing DSA and Leetcode though I haven't touched that in a while. Per
 
 ### Profiles: AI/ML engineer
 
-You can check out my website [here](https://ayushore.vercel.app)
+You can check out my website [here](https://ayushore.vercel.app){:target="_blank"}
 
 For connecting and queries hit me up at jaswalayush@proton.me
